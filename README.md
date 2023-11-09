@@ -14,6 +14,7 @@ I made magic mirror for my girlfriend. It's venetian mirror with tablet inside. 
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 </div>
+
 ## Run Locally
 
 Install dependencies
