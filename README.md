@@ -43,5 +43,5 @@ On https://app-megak.schedule-mirror.pl/ you can see mirror app.
 - Exclude the possibility of adding a task while the previous task is still in progress
  ## Other repositories
 
-- mirror app
-- backend
+- frontend https://github.com/Mati5241/schedule-mirror-front
+- mirror app https://github.com/Mati5241/mirror-app
