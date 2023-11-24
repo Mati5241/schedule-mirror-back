@@ -1,4 +1,4 @@
-![image](https://github.com/Mati5241/schedule-mirror-back/assets/143203781/e4d209c1-32ef-4925-b4cb-654a6039754d)
+
 ## 🚀 About Me
 I have break from MK and I didn't know about projects, so I am sending this one. I know that it's not done in a perfect way, but I am still working on that. I am sorry for every "any", I will do push-ups and implement typescript later. I had deadline for this project for my girlfriend (it was more important than making beautiful code)
 # Magic Mirror
